@@ -39,7 +39,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## About The Project
 
-This is a rapid feedback development environment that runs linting and tests, transpiles modern JavaScript, runs a local webserver, opens the application, and reloads changes when you hit save. Major libraries used React, Redux, and React Router. You can manage courses or some related list of data stored in the DB, and add, update or dekete the courses.
+This is a rapid feedback development environment that runs linting and tests, transpiles modern JavaScript, runs a local webserver, opens the application, and reloads changes when you hit save. Major libraries used React, Redux, and React Router. You can manage courses or some related list of data stored in the DB, and add, update or delete the courses.
 
 
 
