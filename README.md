@@ -53,7 +53,7 @@ This is a rapid feedback development environment that runs linting and tests, tr
 
 ### react-hooks
 - useState()
-- use Effect()
+- useEffect()
 
 ### react-redux
 - Implemented actions, reduers and configured store using react-redux library.
