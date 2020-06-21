@@ -5,7 +5,7 @@ import AboutPage from "./components/about/AboutPage";
 import Header from "./components/common/Header";
 import PageNotFound from "./components/PageNotFound";
 import CoursesPage from "./components/courses/CoursesPage";
-import ManageCoursePage from "./components/courses/ManageCoursePage";
+import ManageCoursePage from "./components/courses/ManageCoursePage"; //eslint-diable-line
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
