@@ -43,7 +43,10 @@ This is a rapid feedback development environment that runs linting and tests, tr
 
 
 
-## Domain Explored
+## Domains Explored
+
+### styling
+- CSS styling is done with bootstrap.
 
 ### react-router-dom
 - Implemented routing between different pages of the website.
