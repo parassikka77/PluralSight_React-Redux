@@ -39,7 +39,28 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## About The Project
 
-This is a rapid feedback development environment that runs linting and tests, transpiles modern JavaScript, runs a local webserver, opens the application, and reloads changes when you hit save. Major libraries used React, Redux, and React Router.
+This is a rapid feedback development environment that runs linting and tests, transpiles modern JavaScript, runs a local webserver, opens the application, and reloads changes when you hit save. Major libraries used React, Redux, and React Router. You can manage courses or some related list of data stored in the DB, and add, update or dekete the courses.
 
-## Technologies Learnt
 
+
+## Domain Explored
+
+### react-router-dom
+- Implemented routing between different pages of the website.
+
+### react-hooks
+- useState()
+- use Effect()
+
+### react-redux
+- Implemented actions, reduers and configured store using react-redux library.
+- Understood the concept of immutability.
+- Learned to use redux middleware (react-thunk) for asynchronous calls to api.
+
+### mock api
+- Used a mock JSON api for the development phase.
+- Created a mock DB to which api referenced.
+
+### testing
+- react & redux testing are also implemented in the code.
+- Used JEST, enzyme and react-testing-library as the framework and helping libraries.
